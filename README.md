@@ -1,2 +1,3 @@
 # astro-simulation
- Some programs I wrote for a class on computer simulation in astronomy and astrophysics.
+
+These are some Python programs I wrote for a course titled Computer Simulation in Astronomy. In this course, we were expected to implement and use several numerical algorithms, such as the Bisection Method, Runge-Kutta Methods, and the Bulirsch–Stoer Method, among others. These algorithms are housed in the a401.py program, along with other functions that perform calculations that are useful for various astrophysical phenomena. The other scripts make use of all of these functions to perform some computational task, such as solving the 1-body problem for an elliptical orbit. 
